@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Loaner Request">11066152ec07a0107f44798e30191cf4</catalog_item>
+        <catalog_variable>IO:e106ed52ec07a0107f44798e30191c8c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-24 13:54:51</sys_created_on>
+        <sys_id>22196516ec07a0107f44798e30191c3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">d34843edec4f20107f44798e30191c75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d34843edec4f20107f44798e30191c75</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_22196516ec07a0107f44798e30191c3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-24 13:54:51</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Only shows Other field if Deplot value is Other">08f8e116ec07a0107f44798e30191c81</ui_policy>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
